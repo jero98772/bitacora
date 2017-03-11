@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.contenedor{
+	position: relative;
+	top: 125px;
+}
+.text{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #808080;
+	width: 325.8px;
+	height: 80px;
+}
+.columna1{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #1E90FF;
+	width: 80px;
+	height: 80px;
+}
+.columna2{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #00BFFF;
+	width: 80px;
+	height: 80px;
+}
