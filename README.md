@@ -11,5 +11,5 @@ intento1_2.html ni idea (como una solucion que se le dio a un problema de hiperv
 
 #### contibuye con donaciones 
 	
-	- Bitcoin: tb1qexn2pck3chxv98knhfmwmdma2mvyuasrmx0g57
+	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
 
