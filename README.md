@@ -9,7 +9,7 @@ intento 1.html es la bitacora
 
 intento1_2.html ni idea (como una solucion que se le dio a un problema de hipervinculos)
 
-bitcoin wallet  para donaciones
+#### contibuye con donaciones 
 	
-	tb1qexn2pck3chxv98knhfmwmdma2mvyuasrmx0g57
+	- Bitcoin: tb1qexn2pck3chxv98knhfmwmdma2mvyuasrmx0g57
 
