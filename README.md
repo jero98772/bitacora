@@ -1,5 +1,5 @@
 # bitacora
-html ... primer repo del primer "lenguaje" :-D que explore
+html ... primer "lenguaje" :-D que explore
 
 es una bitacora de viaje en proceso de aprender y meterme en el cuento de los "lengujes de programacion" mediante explorar la syntaxis , se conluyo html no es una buena base para empesar a progrmar  en lengujes  de programacion con base matematica como python o R que era el proposito
 
