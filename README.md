@@ -9,7 +9,3 @@ intento 1.html es la bitacora
 
 intento1_2.html ni idea (como una solucion que se le dio a un problema de hipervinculos)
 
-#### contibuye con donaciones 
-	
-	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
-
